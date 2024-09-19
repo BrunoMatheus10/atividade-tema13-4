@@ -51,6 +51,6 @@ if valido:
 
 # Verifica se todas as condições foram atendidas
 if valido:
-    print(f"'{cpf}' é um CPF válido.")  # CPF é válido
+    print(cpf," é um CPF válido.")  # CPF é válido
 else:
-    print(f"'{cpf}' é um CPF inválido.")  # CPF é inválido
+    print(cpf," é um CPF inválido.")  # CPF é inválido
